@@ -1,0 +1,39 @@
+
+
+#wrapper {
+width: 850px;
+padding: 30px;
+margin: 10px auto;
+border: 0px solid #ff0000;
+display:block;
+overflow:hidden;
+-webkit-border-radius: 5px;
+border-radius: 5px; 
+background-color:white;
+
+}
+
+#mapaArg {
+float:left;
+width: 297px;
+ margin-left: 100px;
+}
+
+#selections {
+float:right; 
+width: 330px; 
+height: auto;
+max-height: 605px;
+padding: 45px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+    border-style: solid;
+    border-color: #0678ca;
+    border-width: 5px;
+    background-color: #eaf6ff;
+	overflow:auto;
+	overflow-x: hidden;
+
+	
+}
+
